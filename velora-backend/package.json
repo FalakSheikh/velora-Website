@@ -1,0 +1,13 @@
+{
+  "name": "velora-backend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Velora backend: accounts, wardrobe, chat, community, admin. No npm dependencies.",
+  "scripts": {
+    "start": "node start.js",
+    "test": "node --no-warnings test.js && node --no-warnings test-tryon.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  }
+}
